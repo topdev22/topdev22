@@ -84,17 +84,17 @@
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
   
-  ## 🧠 AI/ML Systems & Deep Learning Models
+  <h3 align="left">🧠 AI/ML Systems & Deep Learning Models</h3>
   
-  ## 🧠 Agentic AI & Autonomous Workflows
+  <h3 align="left">🧠 Agentic AI & Autonomous Workflows</h3>
   
-  ## 🔍 AI Search & Recommendation Systems
+  <h3 align="left">🔍 AI Search & Recommendation Systems</h3>
   
-  ## 💬 AI Voice & Chat Systems
+  <h3 align="left">💬 AI Voice & Chat Systems</h3>
     
-  ## 🌐 Web & Mobile Apps Powered by AI
+  <h3 align="left">🌐 Web & Mobile Apps Powered by AI</h3>
     
-  ## 📈 Intelligent SaaS, CRM, and Automation Tools 
+  <h3 align="left">📈 Intelligent SaaS, CRM, and Automation Tools</h3>
 </div>
 
 <h3 align="left">Support:</h3>
