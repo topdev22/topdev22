@@ -18,8 +18,9 @@
 
 - ⚡ Motto: "What you do today can improve all of your tomorrows." — especially when you're building the future with AI
 
-<h4 align="left">Let’s push the boundaries of what’s possible with machine intelligence.
- → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out and let's innovate together.</h4>
+<h4 align="left">
+ Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
+</h4>
 </p>
 
 <img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/nftknight/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nftknight/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/nftknight/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
