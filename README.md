@@ -92,6 +92,7 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/github.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/gitlub.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/google_cloud.png?raw=true" width="200"></td>
@@ -99,7 +100,6 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ghl.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/hubspot.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/shopify.png?raw=true" width="200"></td>
   </tr>
 </table>
 
