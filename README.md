@@ -79,9 +79,9 @@
 <img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
 <h1 align="center"></h1>
 </br></br>
-## My Skills
 
 <div>
+  ## What can I do:
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
     </br>
   - 🧠 AI/ML Systems & Deep Learning Models
