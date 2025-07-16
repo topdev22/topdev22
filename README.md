@@ -29,9 +29,10 @@
 
 ## What can I do:
 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400px" />
-    </br>
+<table>
+  <tr>
+  <td><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400px" /></td>
+  <td>
   - 🧠 AI/ML Systems & Deep Learning Models
     </br></br>
   - 🤖 Agentic AI & Autonomous Workflows
@@ -43,8 +44,8 @@
   - 🌐 Web & Mobile Apps Powered by AI
     </br></br>
   - 📈 Intelligent SaaS, CRM, and Automation Tools
-    </br></br>
-</div>
+  </td>
+</table>
 
 ## My Skills
 
