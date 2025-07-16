@@ -44,7 +44,7 @@
     </br></br>
   - 📈 Intelligent SaaS, CRM, and Automation Tools
   </td>
-  <td><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600"/></td>
+  <td><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/></td>
 </table>
 
 ## My Skills
