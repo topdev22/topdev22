@@ -117,8 +117,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftknight&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucyhunter9411&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NFTknight&show_icons=true&locale=en" alt="NFTknight" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NFTknight&" alt="NFTknight" /></p>
