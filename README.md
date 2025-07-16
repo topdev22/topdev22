@@ -80,8 +80,9 @@
 <h1 align="center"></h1>
 </br></br>
 
+## What can I do:
+
 <div>
-  ## What can I do:
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
     </br>
   - 🧠 AI/ML Systems & Deep Learning Models
