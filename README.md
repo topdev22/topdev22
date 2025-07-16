@@ -101,36 +101,6 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/hubspot.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/shopify.png?raw=true" width="200"></td>
   </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="200"/></td>
-    <td><img src="https://www.chartjs.org/media/logo-title.svg" width="200"/></td>
-  </tr>
 </table>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
