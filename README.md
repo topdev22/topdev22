@@ -83,19 +83,19 @@
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-  
+    </br>
   - 🧠 AI/ML Systems & Deep Learning Models
-    Build, train, and deploy models for NLP, computer vision, and generative AI – from idea to real-world integration.
+    </br>
   - 🧠 Agentic AI & Autonomous Workflows
-    Design intelligent multi-agent systems, RAG pipelines, and orchestration logic using LLMs and tool use.
+    </br>
   - 🔍 AI Search & Recommendation Systems
-    Develop vector search with FAISS, Pinecone, and hybrid retrieval for smart, scalable user experiences.
+    </br>
   - 💬 AI Voice & Chat Systems
-    Create real-time conversational agents using WebRTC, Twilio, STT/TTS, and GPT/Claude APIs.
+    </br>
   - 🌐 Web & Mobile Apps Powered by AI
-    Deliver full-stack applications that use AI/ML under the hood – from dashboards to automation tools.
+    </br>
   - 📈 Intelligent SaaS, CRM, and Automation Tools
-    Build scalable platforms that think, adapt, and learn – from data-driven insights to decision-making engines.
+    </br>
   </br>
 </div>
 
