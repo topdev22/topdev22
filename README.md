@@ -16,7 +16,7 @@
 
 - 📚 Lifelong learner in <strong>AI research</strong>, personal development, and <strong>financial systems</strong>.<br>
 
-- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — especially when you're building the future with <strong>AI</strong>.
+- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — especially when I am building the future with <strong>AI</strong>.
 
 <h4 align="center">
  Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
