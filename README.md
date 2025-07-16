@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-  <td>
+  <td width="60%">
   - 🧠 AI/ML Systems & Deep Learning Models
     </br></br>
   - 🤖 Agentic AI & Autonomous Workflows
@@ -44,7 +44,7 @@
     </br></br>
   - 📈 Intelligent SaaS, CRM, and Automation Tools
   </td>
-  <td><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/></td>
+  <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
 </table>
 
 ## My Skills
