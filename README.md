@@ -59,10 +59,13 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/deepseek.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/retellai.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/runpod.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/botpress.png" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/voiceflow.png" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/pinecone.png" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/faiss.png" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/botpress.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/voiceflow.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/pinecone.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/faiss.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/make.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/zapier.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="200"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
