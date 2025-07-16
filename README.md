@@ -71,11 +71,8 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/javascript.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/typescript.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/Cs.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/go.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ruby.png?raw=true" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="200"></td>
@@ -100,6 +97,11 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ghl.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/hubspot.png?raw=true" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/make.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/zapier.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="200"></td>
   </tr>
 </table>
 
