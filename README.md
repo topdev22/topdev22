@@ -32,24 +32,20 @@
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
     </br>
+  - 🧠 AI/ML Engineer | End-to-End Model Development & Deployment
+    </br></br>
   - 🧠 AI/ML Systems & Deep Learning Models
-    </br>
-    </br>
-  - 🧠 Agentic AI & Autonomous Workflows
-    </br>
-    </br>
+    </br></br>
+  - 🤖 Agentic AI & Autonomous Workflows
+    </br></br>
   - 🔍 AI Search & Recommendation Systems
-    </br>
-    </br>
+    </br></br>
   - 💬 AI Voice & Chat Systems
-    </br>
-    </br>
+    </br></br>
   - 🌐 Web & Mobile Apps Powered by AI
-    </br>
-    </br>
+    </br></br>
   - 📈 Intelligent SaaS, CRM, and Automation Tools
-    </br>
-  </br>
+    </br></br>
 </div>
 
 ## My Skills
