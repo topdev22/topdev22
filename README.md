@@ -79,33 +79,22 @@
 <img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+<h3 align="center">𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨</h3>
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-
-### 🧠 AI/ML Systems & Deep Learning Models
-
-  <br />
-
-### 🧠 Agentic AI & Autonomous Workflows
-
-  <br />
-
-### 🔍 AI Search & Recommendation Systems
-
-  <br />
-
-### 💬 AI Voice & Chat Systems
-
-  <br />
   
-### 🌐 Web & Mobile Apps Powered by AI
-  <br />
+  ### 🧠 AI/ML Systems & Deep Learning Models
   
-### 📈 Intelligent SaaS, CRM, and Automation Tools 
-  <br />
-
+  ### 🧠 Agentic AI & Autonomous Workflows
+  
+  ### 🔍 AI Search & Recommendation Systems
+  
+  ### 💬 AI Voice & Chat Systems
+    
+  ### 🌐 Web & Mobile Apps Powered by AI
+    
+  ### 📈 Intelligent SaaS, CRM, and Automation Tools 
 </div>
 
 <h3 align="left">Support:</h3>
