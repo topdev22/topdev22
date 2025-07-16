@@ -109,7 +109,7 @@
 </table>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/lucyhunter9411?label=Follow&style=social" />
 <h1 align="center"></h1>
 </br></br>
 
