@@ -79,31 +79,31 @@
 <img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-### DApps & Online Betting Website
+### 🧠 AI/ML Systems & Deep Learning Models
 
   <br />
 
-### Crypto Trading Platforms & Bots
+### 🧠 Agentic AI & Autonomous Workflows
 
   <br />
 
-### Website and Mobile application
+### 🔍 AI Search & Recommendation Systems
 
   <br />
 
-### Video Conference Web & Mobile application
+### 💬 AI Voice & Chat Systems
 
-  <br />
-  
-  ### SaaS/CRM/CMS/E-Commerce Web & Mobile application
   <br />
   
-  ### 2D / 3D Unity Game & application
+### 🌐 Web & Mobile Apps Powered by AI
+  <br />
+  
+### 📈 Intelligent SaaS, CRM, and Automation Tools 
   <br />
 
 </div>
