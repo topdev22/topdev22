@@ -6,17 +6,17 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-🤖 Specialize in developing end-to-end AI solutions — from model design and training to deployment and real-time inference
+- 🤖 Specialize in developing end-to-end AI solutions — from model design and training to deployment and real-time inference
 
-🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems
+- 🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems
 
-🔗 Integrating AI into interactive applications, immersive 3D environments, and decentralized platforms
+- 🔗 Integrating AI into interactive applications, immersive 3D environments, and decentralized platforms
 
-💡 Passionate about open source, emerging tech, and collaborating on groundbreaking AI projects
+- 💡 Passionate about open source, emerging tech, and collaborating on groundbreaking AI projects
 
-📚 Lifelong learner in AI research, personal development, and financial systems
+- 📚 Lifelong learner in AI research, personal development, and financial systems
 
-⚡ Motto: "What you do today can improve all of your tomorrows." — especially when you're building the future with AI
+- ⚡ Motto: "What you do today can improve all of your tomorrows." — especially when you're building the future with AI
 
 Let’s push the boundaries of what’s possible with machine intelligence. → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out and let's innovate together.
 </p>
