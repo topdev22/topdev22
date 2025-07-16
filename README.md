@@ -6,17 +6,17 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 🤖 Specialize in developing end-to-end AI solutions from model design and training to deployment and real-time inference.
+- 🤖 Specialize in developing <strong>end-to-end AI solutions</strong> from model design and training to deployment and <strong>real-time inference</strong>.<br>
 
-- 🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems.
+  - 🧠 Exploring cutting-edge domains like <strong>LLMs</strong>, <strong>computer vision</strong>, <strong>NLP</strong>, <strong>agentic AI</strong>, and <strong>autonomous systems</strong>.<br>
 
-- 🔗 Integrating AI into interactive applications, immersive 3D environments, and decentralized platforms.
+  - 🔗 Integrating AI into <strong>interactive applications</strong>, <strong>immersive 3D environments</strong>, and <strong>decentralized platforms</strong>.<br>
 
-- 💡 Passionate about open source, emerging tech, and collaborating on groundbreaking AI projects.
+  - 💡 Passionate about <strong>open source</strong>, <strong>emerging tech</strong>, and collaborating on <strong>groundbreaking AI projects</strong>.<br>
 
-- 📚 Lifelong learner in AI research, personal development, and financial systems.
+  - 📚 Lifelong learner in <strong>AI research</strong>, personal development, and <strong>financial systems</strong>.<br>
 
-- ⚡ Motto: "What you do today can improve all of your tomorrows." — especially when you're building the future with AI.
+  - ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — especially when you're building the future with <strong>AI</strong>.
 
 <h4 align="center">
  Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
