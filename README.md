@@ -76,26 +76,30 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ruby.png?raw=true" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/laravel.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/vue.png" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mysql.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true" width="200"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/github.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/gitlub.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/google_cloud.png?raw=true" width="200"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ghl.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/hubspot.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/shopify.png?raw=true" width="200"></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="200"/></td>
