@@ -27,6 +27,31 @@
 
 <p align="left"> <a href="https://github.com/nftknight/"><img src="https://github-profile-trophy.vercel.app/?username=nftknight" alt="NFTknight" /></a> </p>
 
+## What can I do:
+
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+    </br>
+  - 🧠 AI/ML Systems & Deep Learning Models
+    </br>
+    </br>
+  - 🧠 Agentic AI & Autonomous Workflows
+    </br>
+    </br>
+  - 🔍 AI Search & Recommendation Systems
+    </br>
+    </br>
+  - 💬 AI Voice & Chat Systems
+    </br>
+    </br>
+  - 🌐 Web & Mobile Apps Powered by AI
+    </br>
+    </br>
+  - 📈 Intelligent SaaS, CRM, and Automation Tools
+    </br>
+  </br>
+</div>
+
 ## My Skills
 
 <table>
@@ -80,32 +105,8 @@
 <h1 align="center"></h1>
 </br></br>
 
-## What can I do:
+## My Skills
 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-    </br>
-  - 🧠 AI/ML Systems & Deep Learning Models
-    </br>
-    </br>
-  - 🧠 Agentic AI & Autonomous Workflows
-    </br>
-    </br>
-  - 🔍 AI Search & Recommendation Systems
-    </br>
-    </br>
-  - 💬 AI Voice & Chat Systems
-    </br>
-    </br>
-  - 🌐 Web & Mobile Apps Powered by AI
-    </br>
-    </br>
-  - 📈 Intelligent SaaS, CRM, and Automation Tools
-    </br>
-  </br>
-</div>
-
-<h3 align="left">Support:</h3>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftknight&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
