@@ -112,11 +112,3 @@
 <img align="right" src="https://img.shields.io/github/followers/lucyhunter9411?label=Follow&style=social" />
 <h1 align="center"></h1>
 </br>
-
-## Support
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucyhunter9411&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NFTknight&show_icons=true&locale=en" alt="NFTknight" /></p>
