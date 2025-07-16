@@ -6,15 +6,20 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
+🤖 I specialize in developing end-to-end AI solutions — from model design and training to deployment and real-time inference
 
-- 👯 I hope someday collaborate with on **Innovative Projects**
+🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems
 
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+🔗 Integrating AI into interactive applications, immersive 3D environments, and decentralized platforms
 
-- 📚 Love reading books on personal development & financial literacy.
+💡 Passionate about open source, emerging tech, and collaborating on groundbreaking AI projects
 
-- ⚡ Quotes: _What you do today can improve all of your tomorrows._
+📚 Lifelong learner in AI research, personal development, and financial systems
+
+⚡ Motto: "What you do today can improve all of your tomorrows." — especially when you're building the future with AI
+
+Let’s push the boundaries of what’s possible with machine intelligence.
+→ Fork a project, star a repo, or reach out and let's innovate together.
 </p>
 
 <img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/nftknight/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nftknight/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/nftknight/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
