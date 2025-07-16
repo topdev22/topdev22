@@ -71,7 +71,7 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/laravel.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="200"></td>
