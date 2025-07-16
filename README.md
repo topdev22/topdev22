@@ -18,7 +18,7 @@
 
 - ⚡ Motto: "What you do today can improve all of your tomorrows." — especially when you're building the future with AI
 
-<h4 align="left">
+<h4 align="center">
  Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
 </h4>
 </p>
