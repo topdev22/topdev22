@@ -27,40 +27,10 @@
 
 <p align="left"> <a href="https://github.com/nftknight/"><img src="https://github-profile-trophy.vercel.app/?username=nftknight" alt="NFTknight" /></a> </p>
 
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-  }
-
-  .text-content {
-    flex: 1;
-    min-width: 300px;
-  }
-
-  .gif-image {
-    max-width: 400px;
-    width: 100%;
-    margin-left: 20px;
-  }
-
-  @media (max-width: 900px) {
-    .container {
-      flex-direction: column;
-    }
-
-    .gif-image {
-      margin-left: 0;
-      margin-top: 20px;
-    }
-  }
-</style>
-
 ## What can I do:
 
-<div class="container">
-  <div class="text-content">
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" />
     </br>
   - 🧠 AI/ML Systems & Deep Learning Models
     </br></br>
@@ -74,8 +44,6 @@
     </br></br>
   - 📈 Intelligent SaaS, CRM, and Automation Tools
     </br></br>
-    </div>
-  <img class="gif-image" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" />
 </div>
 
 ## My Skills
