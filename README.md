@@ -78,8 +78,8 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
 <img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
 <h1 align="center"></h1>
-
-<h2 align="center">𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨</h2>
+</br></br>
+## My Skills
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
