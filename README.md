@@ -31,7 +31,6 @@
 
 <table>
   <tr>
-  <td><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="60%" /></td>
   <td>
   - 🧠 AI/ML Systems & Deep Learning Models
     </br></br>
@@ -45,6 +44,7 @@
     </br></br>
   - 📈 Intelligent SaaS, CRM, and Automation Tools
   </td>
+  <td><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" /></td>
 </table>
 
 ## My Skills
