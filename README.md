@@ -23,8 +23,6 @@
 </h4>
 </p>
 
-<p align="left"> <a href="https://github.com/lucyhunter9411/"><img src="https://github-profile-trophy.vercel.app/?username=nftknight" alt="Lucy Hunter" /></a> </p>
-
 ## What can I do:
 
 <table>
