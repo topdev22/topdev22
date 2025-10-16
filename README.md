@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Agile Passinate Creative Developer</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m Agile Passionate Creative Developer</h1>
 
 <p align="center">
   <h3 align="center">AI/ML Engineer | Deep Learning Specialist | Multi-Platform Innovator</h3>
