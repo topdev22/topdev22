@@ -1,45 +1,44 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Agile Passionate Creative Developer</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m Selenon </h1>
 
 <p align="center">
-  <h3 align="center">AI/ML Engineer | Deep Learning Specialist | Multi-Platform Innovator</h3>
+  <h3 align="center">AI/ML Expert | Deep Learning Architect | Cross-Platform Trailblazer</h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 🤖 Specialize in developing <strong>end-to-end AI solutions</strong> from model design and training to deployment and <strong>real-time inference</strong>.<br>
+* 🤖 I build **end-to-end AI systems**, handling everything from model design and training to deployment and **real-time inference** in production.
 
-- 🧠 Exploring cutting-edge domains like <strong>LLMs</strong>, <strong>computer vision</strong>, <strong>NLP</strong>, <strong>agentic AI</strong>, and <strong>autonomous systems</strong>.<br>
+* 🧠 My work spans modern AI areas including **large language models**, **computer vision**, **NLP**, **agent-based systems**, and **autonomous workflows**.
 
-- 🔗 Integrating AI into <strong>interactive applications</strong>, <strong>immersive 3D environments</strong>, and <strong>decentralized platforms</strong>.<br>
+* 🔗 I focus on **integrating AI into real products**, such as interactive applications, 3D or simulation-based environments, and **decentralized or blockchain-based platforms**.
 
-- 💡 Passionate about <strong>open source</strong>, <strong>emerging tech</strong>, and collaborating on <strong>groundbreaking AI projects</strong>.<br>
+* 💡 I actively contribute to and collaborate on **open-source projects**, and I enjoy working with teams that are pushing **new and practical applications of AI**.
 
-- 📚 Lifelong learner in <strong>AI research</strong>, personal development, and <strong>financial systems</strong>.<br>
+* 📚 I’m a continuous learner with strong interests in **AI research**, system design, personal growth, and **financial and economic systems**.
 
-- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — especially when I am building the future with <strong>AI</strong>.
+* ⚡ Personal motto: *“What you do today can improve all of your tomorrows.”* I try to apply this mindset when building **reliable, forward-looking AI solutions**.
 
 <h4 align="center">
- Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
+  Let’s collaborate → 🛒 fork a project, 🌟 star a repo, or 📞 get in touch
 </h4>
-</p>
 
-## What can I do:
+## What I do:
 
 <table>
   <tr>
-  <td width="60%">
-  - 🧠 AI/ML Systems & Deep Learning Models
-    </br></br>
-  - 🤖 Agentic AI & Autonomous Workflows
-    </br></br>
-  - 🔍 AI Search & Recommendation Systems
-    </br></br>
-  - 💬 AI Voice & Chat Systems
-    </br></br>
-  - 🌐 Web & Mobile Apps Powered by AI
-    </br></br>
-  - 📈 Intelligent SaaS, CRM, and Automation Tools
-  </td>
+    <td width="60%">
+      - 🧠 Design and build AI/ML systems and deep learning models  
+      </br></br>
+      - 🤖 Develop agent-based AI and autonomous workflows for real-world use  
+      </br></br>
+      - 🔍 Create AI-powered search, ranking, and recommendation systems  
+      </br></br>
+      - 💬 Build voice-enabled and conversational AI applications  
+      </br></br>
+      - 🌐 Develop web and mobile applications enhanced with AI  
+      </br></br>
+      - 📈 Build intelligent SaaS platforms, CRM solutions, and automation tools  
+    </td>
   <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
 </table>
 
@@ -105,6 +104,6 @@
 </table>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/lucyhunter9411?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/selenon?label=Follow&style=social" />
 <h1 align="center"></h1>
 </br>
