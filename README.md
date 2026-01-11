@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Selenon </h1>
+<h1 align="center" dir="auto">👋 Hi, I’m Topdev </h1>
 
 <p align="center">
   <h3 align="center">AI/ML Expert | Deep Learning Architect | Cross-Platform Trailblazer</h3>
@@ -103,7 +103,4 @@
   </tr>
 </table>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/selenon?label=Follow&style=social" />
-<h1 align="center"></h1>
 </br>
